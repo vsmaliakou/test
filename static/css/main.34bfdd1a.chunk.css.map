@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app/assets/sass/components/app.scss"],"names":[],"mappings":"AAAA,KACE,oBAAA","file":"main.34bfdd1a.chunk.css","sourcesContent":[".app {\r\n  border: 1px solid red;\r\n}\r\n"]}
